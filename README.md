@@ -1,8 +1,8 @@
 ### Hi Everyone 👋
 ### Welcome to my Github!
-<br>
+
 ### My name is Shinichiro Suzuki. 
-<br>
+
 ### I'm a self-taught React developer from Japan and currently lving in Finland. 
 <br>
 
