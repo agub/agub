@@ -1,7 +1,5 @@
 ### Hi Everyone 👋
-### Welcome to my Github!
-
-My name is Shinichiro Suzuki. 
+### My name is Shinichiro Suzuki.
 <br/>
 I'm a self-taught ""React"" developer.
 <br/>
