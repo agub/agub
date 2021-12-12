@@ -1,6 +1,7 @@
 ### Hi there 👋
 Welcome to my Github!
 My name is Shinichiro Suzuki. 
+<br>
 I'm a self-taught programer from Japan and currently lving in Finland. 
 
 <!--
