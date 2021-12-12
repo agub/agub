@@ -3,7 +3,7 @@
 
 ### My name is Shinichiro Suzuki. 
 
-### I'm a self-taught React developer from Japan and currently lving in Finland. 
+### I'm a self-taught React developer from Japan and currently living in Finland. 
 <br>
 
 <!--
