@@ -1,11 +1,9 @@
 # Hi, Everyone 👋
-<br/>
 My name is Shinichiro Suzuki
-I'm a self-taught ""React"" developer.
+I'm a self-taught **React** developer.
 <br/>
 My recent commercial work [Umaishio EC-web-application](https://www.umaishio.com/)
-**I have a permission for open source*
-<br>
+**I have a permission for being the open source project*
 
 <!--
 **agub/agub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
