@@ -6,7 +6,7 @@ My name is Shinichiro Suzuki.
 I'm a self-taught ""React"" developer.
 <br/>
 My recent commercial work [Umaishio EC-web-application](https://www.umaishio.com/)
-*I have a permission for open source*
+**I have a permission for open source*
 <br>
 
 <!--
