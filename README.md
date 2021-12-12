@@ -7,7 +7,7 @@ My recent commercial work [Umaishio EC-web-application](https://www.umaishio.com
 <br>
 [source code is here](https://github.com/agub/umashioEC)
 **I have a permission for being the open source project*
-
+<img src="https://github-readme-stats.vercel.app/api?username=agub&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <!--
 **agub/agub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
