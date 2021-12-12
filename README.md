@@ -1,5 +1,4 @@
-### Hi Everyone 👋
-### My name is Shinichiro Suzuki.
+# Hi, My name is Shinichiro Suzuki 👋
 <br/>
 I'm a self-taught ""React"" developer.
 <br/>
