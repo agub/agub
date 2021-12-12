@@ -1,9 +1,12 @@
 ### Hi Everyone 👋
 ### Welcome to my Github!
 
-### My name is Shinichiro Suzuki. 
-
-### I'm a self-taught React developer from Japan and currently living in Finland. 
+My name is Shinichiro Suzuki. 
+<br/>
+I'm a self-taught ""React"" developer.
+<br/>
+My recent commercial work [Umaishio EC-web-application](https://www.umaishio.com/)
+*I have a permission for open source*
 <br>
 
 <!--
