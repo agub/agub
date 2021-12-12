@@ -1,8 +1,10 @@
 ### Hi there 👋
 Welcome to my Github!
+<br>
 My name is Shinichiro Suzuki. 
 <br>
-I'm a self-taught programer from Japan and currently lving in Finland. 
+I'm a self-taught React developer from Japan and currently lving in Finland. 
+<br>
 
 <!--
 **agub/agub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
